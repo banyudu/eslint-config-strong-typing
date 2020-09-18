@@ -1,0 +1,1 @@
+# eslint-config-strong-typing
